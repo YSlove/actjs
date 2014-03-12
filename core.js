@@ -167,6 +167,13 @@ VIPACT.app = VIPACT.prototype = {
     el: '',
 }
 
+//... ... other internal methods... ...
+/*
+* VIPACT.extend({
+* ... ...
+* });
+*/
+
 VIPACT.app._init.prototype = VIPACT.app;
 
 //Set VIPACT to global
